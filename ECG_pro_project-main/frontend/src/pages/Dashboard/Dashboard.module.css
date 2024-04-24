@@ -1,0 +1,7 @@
+.dashboard_form{
+    text-align: center;
+}
+
+.dashboard_form > body{
+    background-color: #398BC788;
+}

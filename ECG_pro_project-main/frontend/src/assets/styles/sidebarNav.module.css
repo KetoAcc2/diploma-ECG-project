@@ -1,0 +1,11 @@
+.sidebarMenuContainer{
+    width: 100%;
+}
+
+.sidebarMenuContainerBox{
+    float: right;
+}
+
+.sidebarDrawer{
+    width: 10;
+}

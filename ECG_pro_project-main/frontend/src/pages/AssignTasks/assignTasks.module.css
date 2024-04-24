@@ -1,0 +1,35 @@
+.assignTasksContainer {
+    margin: 1% 1% 1% 21%;
+    border-color: #90d1ff;
+    border-width: 2mm;
+    background-color: #FFFFFF;
+}
+
+.assignTasksBody {
+    border-radius: 1pc;
+    margin: 5px 5px 5px 5px;
+}
+
+.assignTasksHeader {
+    margin: 5px 5px 5px 5px;
+}
+
+.assignTasksButtons {
+    display: flex;
+    margin: 5% 5% 5% 5%;
+    justify-content: space-evenly;
+}
+
+.assignTasksButtons Button {
+}
+
+.assignTasksPrevButton {}
+
+.assignTasksNextButton {
+    margin-left: auto;
+}
+
+.assignTasksSubmitButton {
+    flex: 1;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+backend/Program.cs
+*.json
+*.json
+backend/obj/project.assets.json
+backend/obj/backend.csproj.nuget.dgspec.json
+backend/obj/project.nuget.cache
+backend/obj/staticwebassets.pack.sentinel
+backend/backend.csproj
+backend/backend.csproj
+backend/obj/backend.csproj.nuget.g.props
+backend/backend.csproj
+backend/obj/backend.csproj.nuget.dgspec.json
+backend/obj/backend.csproj.nuget.g.props
+backend/obj/backend.csproj.nuget.g.targets
+backend/obj/project.assets.json
+backend/obj/project.nuget.cache
+backend/Program.cs

@@ -1,0 +1,29 @@
+.login_form {
+    text-align: center;
+}
+
+.login_form > body {
+    background-color: #398cc7d1;
+}
+
+.login_form > h1 {
+    color: #FFFFFF;
+    font-family: 'Gafata';
+    font-size: 96px;
+    position: absolute;
+    width: 520px;
+    height: 140px;
+    left: calc(30% - 520px/2);
+    top: calc(140px/2);
+}
+
+.login_form > h2 {
+    color: #FFFFFF;
+    font-family: 'Gafata';
+    font-size: 32px;
+    position: absolute;
+    width: 176px;
+    height: 36px;
+    left: calc(40% - 176px/2);
+    top: calc(30% - 36px/2);
+}
